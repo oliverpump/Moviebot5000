@@ -1,0 +1,5 @@
+{
+  "name": "Movie Night Planner",
+  "description": "An application to track movies watched with friends, get AI-powered suggestions for what to watch next, and vote on the best options.",
+  "requestFramePermissions": []
+}
